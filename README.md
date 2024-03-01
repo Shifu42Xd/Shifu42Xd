@@ -46,10 +46,10 @@
         </ol>
         <h2 class="code-line" data-line-start=5 data-line-end=6 ><a id="Contactos-3"></a>Contactos</h2>
         <div align="center">
-            <a href="mailto:lucianoespejo.shifu@gmail.com">
+            <a href="mailto:lucianoespejo.shifu@gmail.com" target="_blank">
                 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
             </a>
-            <a href="https://www.linkedin.com/in/luciano-espejo-224968229/">
+            <a href="https://www.linkedin.com/in/luciano-espejo-224968229/" target="_blank">
                 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img>
             </a>
             <br>

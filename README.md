@@ -4,10 +4,10 @@
     </head>
     <body id="preview">
         <!--Logo-->
-        <div aling="center" style="text-align: center;">
+        <div align="center">
             <img src="./img/portfolio-luciano-espejo-high-resolution-logo-transparent (1).png" width="20%" height="20%" alt="Texto alternativo" title="Logo L.E">
         </div>
-        <h1 class="code-line" data-line-start=2 data-line-end=3 style="text-align: center;">
+        <h1 align="center" class="code-line" data-line-start=2 data-line-end=3>
             <a id="Bienvenidos_a_mi_Github_2" style="text-align: center;"></a> Bienvenidos a mi Github
         </h1>
         <hr>
@@ -45,15 +45,16 @@
             </li>
         </ol>
         <h2 class="code-line" data-line-start=5 data-line-end=6 ><a id="Contactos-3"></a>Contactos</h2>
-        
-        | ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) |
-        | ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) |
-        
-        <div class="tenor-gif-embed" data-postid="16698434" data-share-method="host" data-aspect-ratio="0.7375" data-width="5%">
-            <a href="https://tenor.com/view/tohru-cute-anime-dragon-tail-happy-gif-16698434">Tohru Cute Sticker</a>from <a href="https://tenor.com/search/tohru-stickers">Tohru Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-        <hr>
-        <p class="has-line-data" data-line-start="16" data-line-end="17">El lenguaje Markdown fue creado por <a href="https://daringfireball.net">John Gruber</a>.</p>
-
-    </body>
+        <div align="center">
+            <a href="mailto:lucianoespejo.shifu@gmail.com">
+                <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
+            </a>
+            <a href="https://www.linkedin.com/in/luciano-espejo-224968229/">
+                <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img>
+            </a>
+            <br>
+            <img  src="./img/tohru_cute.gif" width="10%" height="10%">
+        </div>
+</body>
 
 </html>

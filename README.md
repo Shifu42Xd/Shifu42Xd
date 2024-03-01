@@ -13,6 +13,7 @@
         <hr>
         <p class="has-line-data" data-line-start="4" data-line-end="5">
             Hola soy <strong><em>Luciano Espejo</em></strong> tengo 23 años y me dedico al desarrollo de software en Python.
+            <img src="./img/penguin-wiping-floor.gif" width="5%" height="5%" align="center" disabled>
         </p>
         <h2 class="code-line" data-line-start=5 data-line-end=6 ><a id="Objetivos_5"></a>Objetivos</h2>
         <ul>

@@ -12,7 +12,7 @@
         </h1>
         <hr>
         <p class="has-line-data" data-line-start="4" data-line-end="5">
-            Hola soy <em>Luciano Espejo</em> tengo 23 años y me dedico al desarrollo de software en Python.
+            Hola soy <strong><em>Luciano Espejo</em></strong> tengo 23 años y me dedico al desarrollo de software en Python.
         </p>
         <h2 class="code-line" data-line-start=5 data-line-end=6 ><a id="Objetivos_5"></a>Objetivos</h2>
         <ul>
@@ -46,10 +46,10 @@
         </ol>
         <h2 class="code-line" data-line-start=5 data-line-end=6 ><a id="Contactos-3"></a>Contactos</h2>
         <div align="center">
-            <a href="mailto:lucianoespejo.shifu@gmail.com" target="_blank">
+            <a href="mailto:lucianoespejo.shifu@gmail.com">
                 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
             </a>
-            <a href="https://www.linkedin.com/in/luciano-espejo-224968229/" target="_blank">
+            <a href="https://www.linkedin.com/in/luciano-espejo-224968229/">
                 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img>
             </a>
             <br>

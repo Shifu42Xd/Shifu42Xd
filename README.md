@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
     <head><meta charset="utf-8">
-    <title>README.md</title><style></style>
     </head>
     <body id="preview">
         <!--Logo-->
